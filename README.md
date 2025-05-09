@@ -20,7 +20,8 @@ A simple and responsive web application that generates secure, random passwords 
 
 ## 📸 Screenshots
 
-![Screenshot]![Uploading 2025-05-09 (1).png…]()
+![Screenshot]![2025-05-09](https://github.com/user-attachments/assets/d1b8eff4-df34-4483-b2d8-bd2246979e1a)
+
 
 
 
