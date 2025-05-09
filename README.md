@@ -31,6 +31,8 @@ A simple and responsive web application that generates secure, random passwords 
 2. Open `index.html` in your browser.
 3. Click the **Generate Password** button.
 4. Click the **Copy icon** to copy the password to your clipboard.
+##Click This Link
+
 
 
 
