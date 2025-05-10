@@ -8,7 +8,6 @@ A simple and responsive web application that generates secure, random passwords 
 
 - ✅ Generates strong random passwords
 - ✅ Includes uppercase, lowercase, numbers, and special characters
-- ✅ Automatically copies the generated password to clipboard
 - ✅ Fully responsive design
 - ✅ Lightweight and fast
 
@@ -34,6 +33,7 @@ A simple and responsive web application that generates secure, random passwords 
 2. Open `index.html` in your browser.
 3. Click the **Generate Password** button.
 4. Click the **Copy icon** to copy the password to your clipboard.
+   
 ##Click This Link
 https://swapneel14.github.io/Password-Generator/
 
