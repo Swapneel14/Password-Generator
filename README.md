@@ -1,6 +1,6 @@
 # Password-Generator
 # Click On thi link:-
--
+-https://swapneel14.github.io/Password-Generator/
 # 🔐 Random Password Generator
 
 A simple and responsive Random Password Generator built using **HTML**, **CSS**, and **JavaScript**. It lets users generate strong, customizable passwords instantly.
@@ -26,6 +26,8 @@ A simple and responsive Random Password Generator built using **HTML**, **CSS**,
 ## 📸 Preview
 
 ![Screenshot]
+![2025-05-09 (1)](https://github.com/user-attachments/assets/615ba04b-052d-4002-a272-ad4863427c96)
+
 
 
 
