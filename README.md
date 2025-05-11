@@ -1,5 +1,5 @@
 # Password-Generator
-# Click On thi link:-
+# Click On the link:-
 -https://swapneel14.github.io/Password-Generator/
 # 🔐 Random Password Generator
 
