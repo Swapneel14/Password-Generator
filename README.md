@@ -21,7 +21,7 @@ A simple and responsive Random Password Generator built using **HTML**, **CSS**,
 
 - **HTML5**
 - **CSS3**
-- ** JavaScript**
+- **JavaScript**
 
 ## 📸 Preview
 
